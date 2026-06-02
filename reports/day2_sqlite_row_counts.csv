@@ -1,0 +1,12 @@
+dataset,sqlite_table,cleaned_csv_rows,sqlite_rows,status
+fund_master,dim_fund,40,40,MATCH
+dim_date,dim_date,1610,1610,MATCH
+nav_history,fact_nav,46000,46000,MATCH
+investor_transactions,fact_transactions,32778,32778,MATCH
+scheme_performance,fact_performance,40,40,MATCH
+aum_by_fund_house,fact_aum,90,90,MATCH
+monthly_sip_inflows,fact_sip_industry,48,48,MATCH
+category_inflows,fact_category_inflows,144,144,MATCH
+industry_folio_count,fact_folio_count,21,21,MATCH
+portfolio_holdings,fact_portfolio,322,322,MATCH
+benchmark_indices,fact_benchmark_indices,8050,8050,MATCH
