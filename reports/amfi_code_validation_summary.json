@@ -1,0 +1,16 @@
+{
+    "fund_master_file":"01_fund_master",
+    "nav_history_file":"02_nav_history",
+    "fund_master_code_column":"amfi_code",
+    "nav_history_code_column":"amfi_code",
+    "total_fund_master_codes":40,
+    "total_nav_history_codes":40,
+    "codes_missing_in_nav_history":0,
+    "extra_codes_in_nav_history":0,
+    "missing_codes_sample":[
+
+    ],
+    "extra_codes_sample":[
+
+    ]
+}
