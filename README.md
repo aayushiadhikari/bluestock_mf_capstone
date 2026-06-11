@@ -191,6 +191,28 @@ The project successfully identified:
 
 ---
 
+## Setup Instructions
+
+1. Clone the repository.
+2. Create and activate a virtual environment.
+3. Install required dependencies:
+
+pip install -r requirements.txt
+
+4. Run the notebooks and scripts for analysis.
+
+## How to Open Dashboard
+
+1. Open Microsoft Power BI Desktop.
+2. Open the file:
+
+bluestock_mf_dashboard.pbix
+
+3. Refresh the data if required.
+4. Explore the Industry Overview, Fund Performance, and Investor Analytics dashboard pages.
+
+---
+
 ## Author
 
 Aayushi Adhikari
